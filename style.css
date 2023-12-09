@@ -6,6 +6,8 @@ body{
 header{
     background-color: #2D25A0;
     margin: 0;
+    height: auto;
+    width: auto;
 }
 .nav-sec{
     display: flex;
@@ -34,12 +36,24 @@ li{
     background-color: #E02C6D;
     color: #FFFFFF;
     align-items: center;
+    justify-content:space-around;
     display: flex;
     width: auto ;
-    height: 50px;
     border: 0;
     font-size:16px ;
-    padding:15px 30px ; 
     display: flex;
-    
+    padding: 10px 15px;
+    width:90px ;
+}
+.imgdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.copa{
+    height:230px ;
+    width: 485px;
+    font-size: 64px;
+    color: #FFFFFF;
+    margin-left:156px;
 }
