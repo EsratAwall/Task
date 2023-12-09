@@ -82,17 +82,16 @@ li{
 .container{
     display: grid;
     grid-template-columns:repeat(3,1fr) ;
-    box-shadow: ;
-    border: 2px solid black;
     margin: 70px 180px;
     gap:30px ;
 }
 .grid{
     height: 474px;
     padding: 15px 15px;
+    box-shadow: 0 7px 20px 0 rgba(100, 100, 100, 0.2), 0 7px 20px 0 rgba(100, 100, 100, 0.2);
 }
 .grid-pic{
-    width: 300px;
+    width: 313px;
     height: 256px;
 }
 h1{
