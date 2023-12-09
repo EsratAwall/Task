@@ -43,6 +43,10 @@ li{
     padding: 10px 15px;
     width:90px ;
 }
+.conmebol{
+    font-size: 64px;
+    font-weight:bold ;
+}
 .imgdiv{
     display: flex;
     justify-content: center;
@@ -63,6 +67,7 @@ li{
 .btn-2{
     width:100px ;
     margin-top: 0px;
+    gap: 0;
     background-color: #E02C6D;
     color: #FFFFFF;
     font-size: 16px;
