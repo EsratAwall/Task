@@ -116,7 +116,7 @@ h1{
     height: 427px;
     width:567px ;
     margin-right: 151px;
-    margin-top: 160px;
+    padding-top: 160px;
     margin-left:79px;
 }
 .copa-last{
@@ -126,9 +126,16 @@ h1{
 .last{
     width: 484px;
     height: auto;
-    margin: 158px 475px;
+    margin-top: 158px ;
+    margin-left: 475px;
 }
 .footer-img{
     height: 110px;
     width: 484px;
+}
+.icon{
+    display: flex;
+    gap: 14px;
+    height: 32px;
+    width: 32px;
 }
