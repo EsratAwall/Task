@@ -138,4 +138,13 @@ h1{
     gap: 14px;
     height: 32px;
     width: 32px;
+    padding-left: 150px;
+    padding-top: 20px;
+}
+.copyright{
+    height: 31px;
+    width: 236px;
+    padding-left: 123px;
+    padding-top: 20px;
+    font-size: 18px;
 }
