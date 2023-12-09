@@ -88,7 +88,7 @@ li{
 .grid{
     height: 474px;
     padding: 15px 15px;
-    box-shadow: 7px 10px 20px 5px rgba(100, 100, 100, 0.2), 7px 10px 20px 5px rgba(100, 100, 100, 0.2);
+    box-shadow: 3px 10px 20px 7px rgba(135, 135, 135, 0.2), 3px 10px 20px 7px rgba(135, 135, 135, 0.2);
 }
 .grid-pic{
     width: 313px;
@@ -101,4 +101,14 @@ h1{
 .loren{
     font-size: 16px;
     color:#6C6C6C;  
+}
+.div-all{
+    height: 427px;
+    display: flex;
+}
+.highlight{
+    padding-left:182px ;
+    padding-top:224px ;
+    padding-right: 69px;
+    
 }
