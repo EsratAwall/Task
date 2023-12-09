@@ -108,7 +108,14 @@ h1{
 }
 .highlight{
     padding-left:182px ;
-    padding-top:224px ;
-    padding-right: 69px;
-    
+    padding-top:220px ;
+    padding-right: 69px;  
+    height: 350px;  
+    width: 500px;
+}
+.match{
+    height: 427px;
+    width:567px ;
+    margin-right: 151px;
+    margin-top: 160px;
 }
