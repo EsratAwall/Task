@@ -45,29 +45,9 @@ li{
 }
 
 @media screen and (min-width: 576px) {
-      .nav-sec{
-        flex-direction: column;
-      }
-      .btn-1{
-        display: flex;
-        flex-direction: column;
-        font-size:5px ;
-        width:10px ;
-    }
-      .copa-div{
-        display:flex;
-        flex-direction: column;
-      }
-      .imgdiv-2{
-        display: flex;
-        flex-direction: column;
-      }
       .container{
         display: grid;
         grid-template-columns:1fr;
-    }
-    .div-all{
-        flex-direction: column;
     }
 }
 
