@@ -108,8 +108,7 @@ h1{
 }
 .highlight{
     padding-left:182px ;
-    padding-top:220px ;
-    padding-right: 69px;  
+    padding-top: 170px;
     height: 350px;  
     width: 500px;
 }
@@ -118,4 +117,18 @@ h1{
     width:567px ;
     margin-right: 151px;
     margin-top: 160px;
+    margin-left:79px;
+}
+.copa-last{
+    font-size:48px ;
+    color:#0A0826 ;
+}
+.last{
+    width: 484px;
+    height: auto;
+    margin: 158px 475px;
+}
+.footer-img{
+    height: 110px;
+    width: 484px;
 }
