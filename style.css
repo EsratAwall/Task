@@ -6,7 +6,7 @@ body{
 header{
     background-color: #2D25A0;
     margin: 0;
-    height: auto;
+    height:750px;
     width: auto;
 }
 .nav-sec{
@@ -38,10 +38,8 @@ li{
     align-items: center;
     justify-content:space-around;
     display: flex;
-    width: auto ;
     border: 0;
     font-size:16px ;
-    display: flex;
     padding: 10px 15px;
     width:90px ;
 }
@@ -50,10 +48,58 @@ li{
     justify-content: center;
     align-items: center;
 }
+.copa-div{
+    display: flex;
+
+}
 .copa{
     height:230px ;
     width: 485px;
     font-size: 64px;
     color: #FFFFFF;
     margin-left:156px;
+    margin-top:0px ;
+}
+.btn-2{
+    width:100px ;
+    margin-top: 0px;
+    background-color: #E02C6D;
+    color: #FFFFFF;
+    font-size: 16px;
+    border: 0;
+    width:150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 14px 15px;
+}
+.imgdiv-2{
+   width: 556px;
+   height: 428px;
+   margin-left: 102px;
+   margin-top: 49px;
+}
+.container{
+    display: grid;
+    grid-template-columns:repeat(3,1fr) ;
+    box-shadow: ;
+    border: 2px solid black;
+    margin: 70px 180px;
+    gap:30px ;
+}
+.grid{
+    height: 474px;
+    padding: 15px 15px;
+}
+.grid-pic{
+    width: 300px;
+    height: 256px;
+}
+h1{
+    font-size: 28px;
+    color: #18191F;
+}
+.loren{
+    font-size: 16px;
+    color:#6C6C6C;  
 }
